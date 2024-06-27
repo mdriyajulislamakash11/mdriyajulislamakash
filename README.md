@@ -1,4 +1,3 @@
-https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/449168324_122111621174356409_7789493540178730535_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGnRhWjgjrxHwbRCmyd7i9jAmoMlhSWlrwCagyWFJaWvMJ7D8aM8-HQcxG4h5eBmSl0JF-bQHj9WZNhMmuSbh3c&_nc_ohc=9LPqMZAhnS4Q7kNvgH6ncmW&_nc_ht=scontent.fdac24-2.fna&oh=00_AYBBSN7asxsbwN44MYrq6GR0tosDIXRH1z3kX000UoFb2w&oe=6682EDF6
 
 ### Hi there 👋, I'm Akash Ahmed
 #### web developer
